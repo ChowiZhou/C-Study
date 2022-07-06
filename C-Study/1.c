@@ -1,7 +1,7 @@
 #include <stdio.h> /*包含一个文件*/
 int main(void)
 {
-	int num;
+	int num; /*定义一个num的变量*/
 	num = 1;
 
 	printf("I am a simple");
