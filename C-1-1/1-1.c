@@ -15,7 +15,7 @@ int main(void) /*函数名*/
 	printf("My favorite number is %d because it is first.\n", num);/*把num的值嵌到双引号内，%d为嵌入位置*/
 	/*以下为拓展练习*/
 	printf("我有%d苹果.\n", num);
-	printf("你有几个苹果.\n"); 
+	printf("你有几个苹果.\n");
 	printf("你有%d个人.\n", door);
 	printf("I have %d apple.\n", color);
 	printf("I have %d bananer.\n", mask);
