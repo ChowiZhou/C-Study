@@ -1,4 +1,4 @@
-# C-Study
+//C-Study
 #include <stdio.h>
 int main(void)
 {
